@@ -1,9 +1,0 @@
-hostname,ip_address,device_type,username,password,platform
-CORE-SW-01,192.168.1.1,huawei,admin,password123,Vendor1
-CORE-SW-02,192.168.1.2,huawei,admin,password123,Vendor1
-ACCESS-SW-01,192.168.1.10,huawei,admin,password123,Vendor1
-ACCESS-SW-02,192.168.1.11,huawei,admin,password123,Vendor1
-ACCESS-SW-03,192.168.1.12,huawei,admin,password123,Vendor1
-FIREWALL-01,192.168.1.254,huawei,admin,password123,Vendor1
-AC-01,192.168.1.100,huawei,admin,password123,Vendor1
-AR-01,192.168.1.200,huawei,admin,password123,Vendor1
